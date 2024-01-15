@@ -1,5 +1,4 @@
 ## Project Layout
-This project handle requirements in the following way:
 1. Homepage has a search bar. You need to enter a stock name in the search bar and press ENTER or click the search icon. The search bar reveals a list of best matches.
 2. You can click one of these. The url for each match is set to '/stock/stockname'. Clicking one of these will take you to the detailed view of each stock.
 3. The detailed view of each stock reveals:
